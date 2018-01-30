@@ -21,8 +21,7 @@ export default {
 <style>
 .container
 {
-  margin: 0;
-  width: 100%;
+  margin: 0 40px;
   padding: 100px 0;
   text-align: center;
 }
@@ -47,7 +46,6 @@ export default {
 
 .title
 {
-  color: #000;
   font-weight: 300;
   font-size: 2.5em;
   margin: 0;
